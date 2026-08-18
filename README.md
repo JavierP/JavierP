@@ -22,9 +22,10 @@ HTTP servers, and application architecture.
 ## 📌 Featured Projects
 
 ### Project Name
+
 WIP
 
 
 ## 📫 Connect With Me
 
-LinkedIn: ...
+LinkedIn: https://www.linkedin.com/in/javier-plata-dev/
